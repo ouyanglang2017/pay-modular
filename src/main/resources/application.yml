@@ -1,0 +1,10 @@
+AliPay:
+  appId: ''
+  appPrivateKey: ''
+  alipayPublicKey: ''
+  serverUrl: 'https://openapi.alipaydev.com/gateway.do'
+  format: 'json'
+  signType: 'RSA2'
+  notifyUrl: ''
+  charset: 'UTF-8'
+  sellerId: '2088102170199134'
