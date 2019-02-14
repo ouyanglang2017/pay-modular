@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 @Component
-@ConfigurationProperties(prefix = "AliPay")
+@ConfigurationProperties(prefix = "alipay")
 public class AlipayConfig {
     private String appId;
     private String appPrivateKey;

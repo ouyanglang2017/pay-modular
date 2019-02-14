@@ -1,4 +1,4 @@
-AliPay:
+alipay:
   appId: ''
   appPrivateKey: ''
   alipayPublicKey: ''

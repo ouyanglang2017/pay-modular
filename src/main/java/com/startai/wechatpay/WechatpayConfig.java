@@ -3,8 +3,8 @@ package com.startai.wechatpay;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-@Component
-@ConfigurationProperties(prefix = "WechatPay")
+//@Component
+//@ConfigurationProperties(prefix = "WechatPay")
 public class WechatpayConfig {
     private String appId;
     private String apiKey;
